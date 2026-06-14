@@ -5,9 +5,9 @@ title: "Riccardo Manghi"
 title_separator: "-"
 name: &name "Riccardo Manghi"
 description: &description "Postdoctoral Researcher in Economics | LUISS Guido Carli University"
-url: https://rmanghi.github.io
+url: "https://rmanghi95.github.io"
 baseurl: ""
-repository: "rmanghi/rmanghi.github.io"
+repository: "rmanghi95/rmanghi95.github.io"
 
 # Site Author
 author:
@@ -17,7 +17,8 @@ author:
   bio: " My research focuses on experimental and behavioral economics, with particular interest in how individuals process risk and information."
   location: "Rome, Italy"
   employer: "LUISS Guido Carli University"
-  uri: "https://rmanghi.github.io"
+  uri: "https://rmanghi95.github.io"
+  github: "rmanghi95"
   email: "rmanghi@luiss.it"
 
   # Academic profiles
